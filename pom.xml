@@ -17,7 +17,7 @@
 		<version>2.2.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-			<properties>
+	<properties>
 		<sonar.host.url>http://52.87.224.56:9000</sonar.host.url>
 		<sonar.login>1750377a84c41b768792864d9365af299ee64b9d</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
